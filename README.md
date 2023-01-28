@@ -1,3 +1,5 @@
+![gif](./src/assets/gif.gif)
+
 Critères de validation  
 ✅Une barre de navigation présente trois menus dont un avec une liste Dropdown.  
 ✅La barre de navigation est responsive.  
