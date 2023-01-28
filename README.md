@@ -1,4 +1,4 @@
-Critères de validation
+Critères de validation  
 ✅Une barre de navigation présente trois menus dont un avec une liste Dropdown.  
 ✅La barre de navigation est responsive.  
 ✅Dans la partie principale, 4 cards sont correctement alignées et disposées en 4 colonnes pour la version desktop, 2 colonnes pour la version tablette et 1 colonne version mobile. Elles contiennent toutes de haut en bas :  
