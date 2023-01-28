@@ -1,27 +1,16 @@
-# QueteBootstrap5
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Critères de validation
+✅Une barre de navigation présente trois menus dont un avec une liste Dropdown.
+✅La barre de navigation est responsive.
+✅Dans la partie principale, 4 cards sont correctement alignées et disposées en 4 colonnes pour la version desktop, 2 colonnes pour la version tablette et 1 colonne version mobile. Elles contiennent toutes de haut en bas :
+✅1 image
+✅1 titre
+✅1 extrait de texte (affiché uniquement en version desktop)
+✅1 lien « lire la suite »
+✅Un pied de page est présent et possède la même couleur de fond que la barre de navigation.
+Bonus mais non invalidant
+✅La couleur principale est homogène entre la barre de navigation, les liens des cards et le fond du pied de page.
+✅En version mobile et tablette, la barre de navigation s'ouvre dans un menu latéral glissant.
+✅Les cards ont toutes la même hauteur, peu importe la longueur de leurs contenus.
+✅Les cards sont entièrement cliquables.
+✅Une large section sur fond uni est présent avant le pied de page.
+✅Le footer est positionné en pied de fenêtre même si le contenu de la page ne rempli pas toute la hauteur, mais il reste fluide (sticky footer 🤫).
